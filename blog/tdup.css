@@ -1,0 +1,31 @@
+.categories td#langupdate
+{
+	background-color:##F5F5F5;
+	color:#000000;
+	white-space:nowrap;
+  font-family: sans-serif;
+}
+
+.categories td#compupdate
+{
+	background-color:##F5F5F5;
+	color:#000000;
+	white-space:nowrap;
+  font-family: sans-serif;
+}
+
+.categories td#musiupdate
+{
+	background-color:##F5F5F5;
+	color:#000000;
+	white-space:nowrap;
+  font-family: sans-serif;
+}
+
+.categories td#bfinupdate
+{
+	background-color:##F5F5F5;
+	color:#000000;
+	white-space:nowrap;
+  font-family: sans-serif;
+}
