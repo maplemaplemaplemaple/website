@@ -1,0 +1,36 @@
+.categories td#computer
+{
+	background-color:#1A82E9;
+	color:#BEC3C8;
+	white-space:nowrap;
+  font-family: sans-serif;
+}
+
+.categories td#music
+{
+	background-color:#07F24B;
+	color:#BEC3C8;
+	white-space:nowrap;
+  font-family: sans-serif;
+}
+
+.categories td#languages
+{
+	background-color:#000000;
+	color:#BEC3C8;
+	white-space:nowrap;
+  font-family: sans-serif;
+}
+
+.categories td#header
+{
+	background-color:#0B6135;
+	color:#BEC3C8;
+	white-space:nowrap;
+  font-family: sans-serif;
+}
+
+
+
+
+
